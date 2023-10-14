@@ -2,8 +2,8 @@
 
 |  #  | Project                                                                                                                     |                                                             |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/R-Berrocal/50-projects-in-50-day/tree/main/expanding-cards)             | 
-| 02  | [Progress Steps](https://github.com/R-Berrocal/50-projects-in-50-day/tree/main/progress-steps)              |
+| 01  | [Expanding Cards](https://github.com/R-Berrocal/50-projects-in-50-days/tree/main/expanding-cards)             | 
+| 02  | [Progress Steps](https://github.com/R-Berrocal/50-projects-in-50-days/tree/main/progress-steps)              |
 
 
 ## License
