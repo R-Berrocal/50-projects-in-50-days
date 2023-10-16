@@ -4,7 +4,8 @@
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/R-Berrocal/50-projects-in-50-days/tree/main/expanding-cards)             | 
 | 02  | [Progress Steps](https://github.com/R-Berrocal/50-projects-in-50-days/tree/main/progress-steps)              |
-| 02  | [Rotating Navigation](https://github.com/R-Berrocal/50-projects-in-50-days/tree/main/rotating-nav-animation)              |
+| 03  | [Rotating Navigation](https://github.com/R-Berrocal/50-projects-in-50-days/tree/main/rotating-nav-animation)              |
+| 04  | [Hidden Search](https://github.com/R-Berrocal/50-projects-in-50-days/tree/main/hidden-search)              |
 
 
 ## License
