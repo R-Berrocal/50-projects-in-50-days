@@ -7,7 +7,8 @@
 | 03  | [Rotating Navigation](https://github.com/R-Berrocal/50-projects-in-50-days/tree/main/rotating-nav-animation)              |
 | 04  | [Hidden Search](https://github.com/R-Berrocal/50-projects-in-50-days/tree/main/hidden-search)              |
 | 05  | [Blurring Loading](https://github.com/R-Berrocal/50-projects-in-50-days/tree/main/blurry-loading)              |
-| 06  | [scroll-animation](https://github.com/R-Berrocal/50-projects-in-50-days/tree/main/scroll-animation)              |
+| 06  | [Scroll Animation](https://github.com/R-Berrocal/50-projects-in-50-days/tree/main/scroll-animation)              |
+| 07  | [Form Input wave](https://github.com/R-Berrocal/50-projects-in-50-days/tree/main/form-input-wave)              |
 
 
 ## License
